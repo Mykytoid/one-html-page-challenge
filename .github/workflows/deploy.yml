@@ -11,9 +11,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Git LFS
-        uses: git-lfs/setup-git-lfs@v2
-
       - name: Install dependencies
         run: |
           npm install
