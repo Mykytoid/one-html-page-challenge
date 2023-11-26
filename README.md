@@ -1,4 +1,4 @@
-[![Deploy to GitHub Pages](https://github.com/Mykytoid/one-html-page-challenge/actions/workflows/deploy.yml/badge.svg)](https://github.com/Mykytoid/one-html-page-challenge/actions/workflows/deploy.yml)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Mykytoid/one-html-page-challenge/actions/workflows/create-pages.yml/badge.svg)](https://github.com/Mykytoid/one-html-page-challenge/actions/workflows/create-pages.yml)
 [![One HTML Page Challenge](./meta/one-html-page-logo.png?raw=true "One HTML Page Challenge")](https://onehtmlpagechallenge.com/)
 
 The goal is to create anything you want within 1 single html file. Practice your skills with the barebones of web development. **How creative can you be with such restrictions?**
